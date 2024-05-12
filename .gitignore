@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#virtual environment python 3.8
+assistant
+
 # C extensions
 *.so
 
