@@ -4,4 +4,5 @@ PyAudio
 wikipedia
 streamlit
 gTTS
+opencv-python
 google-generativeai
