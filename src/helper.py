@@ -63,7 +63,7 @@ def wish_me():
 
 
 
-GOOGLE_API_KEY = "AIzaSyASi6dfYEkic-WZPPF5mTdXpO7wpFso8cY"
+GOOGLE_API_KEY = "*************************"
 os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 
 
